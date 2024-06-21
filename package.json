@@ -1,0 +1,18 @@
+{
+  "name": "primeiro-projeto-node",
+  "version": "1.0.0",
+  "description": "esse é o meu primeiro projeto com o nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sora",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
